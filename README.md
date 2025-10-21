@@ -1,6 +1,6 @@
 # 📚 Library Management System (COBOL)
 
-This was our **OJT (On-the-Job Training) group project**, built completely in **COBOL** — yeah, that legendary old language! 😅  
+This was our **OJT (On-the-Job Training) group project**, built completely in **COBOL** — yeah, that legendary ancient programming language! 😅  
 It was actually the **first time** we ever learned and coded something in a legacy language like COBOL.  
 We had a lot of fun (and pain 😆) figuring things out line by line.
 
