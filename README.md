@@ -27,11 +27,11 @@ Even though it’s simple, it really helped us understand how record-level data 
 
 ## 👥 Our Team
 We were a group of **five members**:
-- Htay Lwin (me)
-- Khant Ko  
-- Kaung Khant Nyein  
-- Ei Ei Thant  
-- Ei Khine Moe  
+- Silas (me)
+- [K.K ](https://github.com/JK-coder-kun)
+- [K.K.N](https://github.com/MgNyanKaung)  
+- [E.E.T](https://github.com/eieithant/)
+- [E.K.M](https://github.com/Elliza-W)
 
 We worked together to design and code everything from scratch — CSV handling, validation, and all.
 
